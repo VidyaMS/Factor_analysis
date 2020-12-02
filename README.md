@@ -1,1 +1,1 @@
-#Factor Analysis for SFO Airport Survey data
+#Factor Analysis for SFO Airport survey data
